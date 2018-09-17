@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="FLCService:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FLCService_jar</output-path>
+    <root id="root">
+      <element id="archive" name="FLCService.jar">
+        <element id="module-output" name="FLCService" />
+      </element>
+      <element id="library" level="project" name="javax.mail" />
+    </root>
+  </artifact>
+</component>
